@@ -49,7 +49,7 @@ links (tried to rate from easiest to hardest):
  - Bascially it has two parts, the *Text analysis* and *Time series*
 
  - data collection
-     - Our main sources will probably be finance social media, reddit/twitter+cnn+google trends+reports+yfin by companies/firms, maybe weight them by follower count/upvotes (probably a direct correlation for influence and stock price for that)
+     - Our main sources will probably be finance social media, reddit/twitter+cnn+google trends+yahoo finance+reports by companies/firms, maybe weight them by follower count/upvotes (probably a direct correlation for influence and stock price for that)
      - increase scrape parameters to more topics (commodities, oil/gas/diamonds/etc, nyse/nasdaq words, etc), then process it, much more than the $stocks
 
  - Text stuff 
